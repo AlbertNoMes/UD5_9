@@ -1,5 +1,5 @@
-import javax.swing.JOptionPane;
-public class buclesDivisibles {
+
+public class buclesDivisiblesAPP {
 
 	public static void main(String[] args) {
 	
